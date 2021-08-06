@@ -1,0 +1,16 @@
+{
+    "name": "abdeslam/validator",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abdeslam\\Validator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdeslam gacemi",
+            "email": "abdobling@gmail.com"
+        }
+    ],
+    "require": {}
+}
